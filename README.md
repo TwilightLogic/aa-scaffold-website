@@ -7,7 +7,7 @@ Supported by:
   <a href="https://smart-accounts.vercel.app/">Website</a>
 </h4>
 
-🧪 An open-source, up-to-date toolkit for building decentralized AA applications (dapps) on the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
+🧪 An open-source, up-to-date toolkit for building decentralized AA applications (dapps) based on Scaffold-ETH-2 in the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
 
 Make AA Development Easy. Make Mass Adoption Possible.
 
