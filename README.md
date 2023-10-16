@@ -3,8 +3,8 @@
 Supported by:
 
 <h4 align="center">
-  <a href="https://github.com/TwilightLogic/smart-accounts-website">Documentation</a> |
-  <a href="https://smart-accounts.vercel.app/">Website</a>
+  <a href="https://github.com/TwilightLogic/aa-scaffold-website/blob/master/README.md">Documentation</a> |
+  <a href="https://aa-scaffold-website.vercel.app/">Website</a>
 </h4>
 
 🧪 An open-source, up-to-date toolkit for building decentralized AA applications (dapps) based on Scaffold-ETH-2 in the Ethereum blockchain. It's designed to make it easier for developers to create and deploy smart contracts and build user interfaces that interact with those contracts.
